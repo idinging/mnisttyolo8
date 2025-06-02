@@ -33,6 +33,12 @@ python convert_mnist_to_yolo.py
 python train.py
 ```
 
+## 实验效果
+
+下图展示了使用摄像头进行实时手写数字识别的效果，系统能够准确识别出手写的数字并显示识别置信度。
+
+![手写数字识别效果](yolo8sxt.png)
+
 ## 环境依赖
 
 本项目需要安装以下Python包：
